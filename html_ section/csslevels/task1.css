@@ -1,0 +1,62 @@
+h2{
+    font-family: 'Potta One', cursive;
+text-align: center;
+
+}
+div{
+    padding: 5px;
+    margin: 5px;
+}
+#bl{
+    background-color: dark cornflowerblue;
+    width: 100px;
+    height: 500px;
+    margin-left: 20%;
+    float: left;
+    
+
+}
+#blu{
+background-color: cyan;
+width: 100px;
+height: 500px;
+
+float: left;
+
+
+
+}
+#blue{
+    background-color: rgb(29, 219, 140);
+    width: 100px;
+    height: 500px;
+  
+    float: left;
+  
+}
+#ye{
+    background-color: darksalmon;
+    width: 100px;
+    height: 500px;
+    float: left;
+    
+   
+
+}
+#red{
+    background-color: deeppink;
+    width: 100px;
+    height: 500px;
+   
+    float: left;
+    
+    
+    
+}
+#re{ background-color: rgb(43, 20, 255);
+    width: 100px;
+    height: 500px;
+   
+    float: left;
+
+}
