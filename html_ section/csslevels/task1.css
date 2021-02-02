@@ -13,6 +13,7 @@ div{
     height: 500px;
     margin-left: 20%;
     float: left;
+   
     
 
 }
@@ -25,12 +26,13 @@ float: left;
 
 
 
+
 }
 #blue{
     background-color: rgb(29, 219, 140);
     width: 100px;
     height: 500px;
-  
+    
     float: left;
   
 }
@@ -47,6 +49,7 @@ float: left;
     background-color: deeppink;
     width: 100px;
     height: 500px;
+    
    
     float: left;
     
@@ -56,6 +59,7 @@ float: left;
 #re{ background-color: rgb(43, 20, 255);
     width: 100px;
     height: 500px;
+  
    
     float: left;
 
